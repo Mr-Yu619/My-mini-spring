@@ -1,4 +1,4 @@
-package org.springframework.aop.framework.aop;
+package org.springframework.aop;
 
 import java.lang.reflect.Method;
 

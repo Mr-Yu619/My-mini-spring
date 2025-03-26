@@ -1,4 +1,4 @@
-package org.springframework.aop.framework.aop;
+package org.springframework.aop;
 
 // 这是一个能获取一个对象所有实现接口的类
 public class TargetSource {
